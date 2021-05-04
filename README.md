@@ -1,8 +1,5 @@
 ### Hi there, I'm Dany Exume 👋
 
-<!--
-**danyclaraexume/danyclaraexume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,8 +9,11 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=danyclaraexume" />
+
+
 ## Connect with me:
 
-## Languages and tools:
+## Languages:
 
--->
+## Tools:
