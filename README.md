@@ -10,7 +10,7 @@
 <li> 💬 I like talking about Web Development, Blockchain, AI and Fintech. </li>
 <li> 📧 Email: danyexume@gmail.com</li>
 </ul>
- <img align="right" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Bitmoji.png">
+ <img align="right" width="40%" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Bitmoji.png">
  </div>
 
 
