@@ -10,16 +10,16 @@
 <li> 💬 I like talking about Web Development, Blockchain, AI and Fintech. </li>
 <li> 📧 Email: danyexume@gmail.com</li>
 </ul>
- <img align="right" width="40%" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Bitmoji.png">
+ <img align="right" width="40%" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/Bitmoji.png">
  </div>
 
 
 <h2> Stack </h2>
 <p>
-<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/MernStack.png"></code>
-<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/SQL_logo.png"></code>
-<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/csharp-01.png"></code>
-<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/java-logo-1.png"></code>
+<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/MernStack.png"></code>
+<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/SQL_logo.png"></code>
+<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/csharp-01.png"></code>
+<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/java-logo-1.png"></code>
 </p>
 
  <a href="https://github.com/danyclaraexume/danyclaraexume">
@@ -28,6 +28,6 @@
 <hr>
 <h2> Connect with me </h2>
 <p>
-<code><a href="https://www.linkedin.com/in/dany-exum%C3%A9-647064174/"><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/linkedin.png"></a></code>
+<code><a href="https://www.linkedin.com/in/dany-exum%C3%A9-647064174/"><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/linkedin.png"></a></code>
 </p>
 
