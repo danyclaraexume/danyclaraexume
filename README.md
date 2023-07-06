@@ -1,13 +1,13 @@
 <div  align="center">
 <h2>Hi there 👋, I'm  <a href="https://github.com/danyclaraexume">Dany Exume!</a></h2>
-<h3>Web Developer | SQL Developer </h3>
+<h3>Web Developer | iOS Developer | SQL Developer </h3>
 </div>
 <div>
 <ul  align="left">
-<li> 🔭 I’m currently developing a personal budget web application. </li>
-<li> 🌱 I’m currently learning ReactJS, Redux, TypeScript, NodeJS, Mongo DB. </li>
-<li> 👯 I’m looking to collaborate on any web application project. </li>
-<li> 💬 I like talking about Web Development, Blockchain, AI and Fintech. </li>
+<li> 🔭 I’m currently developing a weather application for iOS. </li>
+<li> 🌱 I’m currently learning Declarative programming and Swift UI. </li>
+<li> 👯 I’m looking to collaborate on any web or iOS application projects. </li>
+<li> 💬 I like talking about personnal finance, music and NFS. </li>
 <li> 📧 Email: danyexume@gmail.com</li>
 </ul>
  <img align="right" width="40%" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/Bitmoji.png">
