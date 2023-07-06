@@ -16,14 +16,8 @@
 
 <h2> Stack </h2>
 <p>
-<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/html5-js-css3-logo.png"></code>
+<code><img height="50" src=""></code>
 <code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/MernStack.png"></code>
-<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/node-JS.png"></code>
-<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/NPM.png"></code>
-<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/reactJS.png"></code>
-<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/Material-UI.png"></code>
-<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/Bootstrap.png"></code>
-<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/mongodb-logo.png"></code>
 <code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/SQL_logo.png"></code>
 <code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/csharp-01.png"></code>
 <code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/java-logo-1.png"></code>
