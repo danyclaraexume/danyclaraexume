@@ -16,7 +16,7 @@
 
 <h2> Stack </h2>
 <p>
-<code><img height="50" src=""></code>
+<code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/swift-logo.jpg"></code>
 <code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/MernStack.png"></code>
 <code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/SQL_logo.png"></code>
 <code><img height="50" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/csharp-01.png"></code>
