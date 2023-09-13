@@ -1,6 +1,6 @@
 <div  align="center">
 <h2>Hi there 👋, I'm  <a href="https://github.com/danyclaraexume">Dany Exume!</a></h2>
-<h3>Web Developer | iOS Developer | SQL Developer </h3>
+<h3>iOS | MERN | SQL </h3>
 </div>
 <div>
 <ul  align="left">
