@@ -4,10 +4,10 @@
 </div>
 <div>
 <ul  align="left">
-<li> 🔭 I’m currently developing a weather application for iOS. </li>
-<li> 🌱 I’m currently learning Declarative programming and Swift UI. </li>
+<li> 🔭 I’m currently developing an E-commerce (MERN). </li>
+<li> 🌱 I’m currently learning Algorithmne & Data Structure. </li>
 <li> 👯 I’m looking to collaborate on any web or iOS application projects. </li>
-<li> 💬 I like talking about personnal finance, music and NFS. </li>
+<li> 💬 I like talking about personnal finance, music and movies </li>
 <li> 📧 Email: danyexume@gmail.com</li>
 </ul>
  <img align="right" width="40%" src="https://github.com/danyclaraexume/danyclaraexume/blob/main/Logos/Bitmoji.png">
